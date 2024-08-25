@@ -18,13 +18,14 @@ Hi, I'm [Vishal!](https://linkedin.com/in/vishal-ydv17/), a passionate self-taug
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pLC49NzAv5-DIc41_yyFuppomvosXIRP/view?usp=sharing)
 
 **🚀 Professional Journey:**
-- **UST Global (Software Associate Trainee):**
-  - Trained in full-stack development, focusing on HTML, CSS, JavaScript, MySQL, Python, and Java.
-  - Gained foundational knowledge in database management and problem-solving.
 
-- **Dream Design Architect (Intern):**
-  - Developed and deployed an SEO-optimized website using React JS, HTML, CSS, and JavaScript.
-  - Gained client collaboration experience and industry exposure through Vercel deployment.
+*UST Global (Software Associate Trainee):*
+- Trained in full-stack development, focusing on HTML, CSS, JavaScript, MySQL, Python, and Java.
+- Gained foundational knowledge in database management and problem-solving.
+
+*Dream Design Architect (Intern):*
+- Developed and deployed an SEO-optimized website using React JS, HTML, CSS, and JavaScript.
+- Gained client collaboration experience and industry exposure through Vercel deployment.
 
 **📢 Find me elsewhere:**
 <p align="left">
