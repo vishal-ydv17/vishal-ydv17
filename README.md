@@ -1,6 +1,11 @@
-<h1 align="center">Hiii there 👋, I'm Vishal Yadav</h1>
-<h3 align="center">A passionate programmer from India.</h3>
+<div align="left">
+  
+<h1>Hiii there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vishal Yadav</h1>
+<h3>A passionate programmer from India.</h3>
 
+<p> <img src="https://komarev.com/ghpvc/?username=vishal-ydv17&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-ydv17" /> </p>
+
+</div>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=vishal-ydv17&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-ydv17" /> 
 </p>
