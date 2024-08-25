@@ -19,11 +19,11 @@ I'm a final year Information Technology Engineering student at Acharya Institute
 **"INNOVATE, COLLABORATE, AND ELECTRIFY — THAT'S HOW I ROLL."**
 
 ## 🚀 **PROFESSIONAL JOURNEY:**
-- **UST Global (Software Associate, Jan. 2024 – June 2024):**
+- **UST Global (Software Associate Trainee):**
   - Trained in full-stack development, focusing on HTML, CSS, JavaScript, MySQL, Python, and Java.
   - Gained foundational knowledge in database management and problem-solving.
 
-- **Dream Design Architect (Intern, June 2022 – Aug. 2022):**
+- **Dream Design Architect (Intern):**
   - Developed and deployed an SEO-optimized website using React JS, HTML, CSS, and JavaScript.
   - Gained client collaboration experience and industry exposure through Vercel deployment.
 
