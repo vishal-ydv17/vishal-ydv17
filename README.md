@@ -19,7 +19,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1pLC49NzAv5-DIc41_yyFuppomvosXIRP/view?usp=sharing](https://drive.google.com/file/d/1pLC49NzAv5-DIc41_yyFuppomvosXIRP/view?usp=sharing)
 
 ## 🎓 **ABOUT ME:**
-I'm a final year Information Technology Engineering student at [Acharya Institute of Technology](https://www.acharya.ac.in/ait/), Bangalore, where my journey in tech took flight. From learning the ropes of frontend development with React-JS to diving deep into the endless ocean of open source — I've touched every stone to ensure it's not unturned.
+I'm a final year Information Technology Engineering student at [Acharya Institute of Technology](https://www.acharya.ac.in/), Bangalore, where my journey in tech took flight. From learning the ropes of frontend development with React-JS to diving deep into the endless ocean of open source — I've touched every stone to ensure it's not unturned.
 
 
 ## ✨ **MY MANTRA:**
