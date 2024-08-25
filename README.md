@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vishal Yadav</h1>
+<h1 align="center">Hiii there 👋, I'm Vishal Yadav</h1>
 <h3 align="center">A passionate programmer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-ydv17&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-ydv17" /> </p>
@@ -10,21 +10,24 @@
 - 📫 How to reach me **vishalyadavy0022@gmaiil.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1pLC49NzAv5-DIc41_yyFuppomvosXIRP/view?usp=sharing](https://drive.google.com/file/d/1pLC49NzAv5-DIc41_yyFuppomvosXIRP/view?usp=sharing)
 
-## About Me:
-I'm a final year Computer Science Engineering student at Vellore Institute of Technology, where my journey in tech took flight. From learning the ropes of frontend development with React-JS to diving deep into the endless ocean of open source — I've touched every stone to ensure it's not unturned.
+##🎓 About Me:
+I'm a final year Information Technology Engineering student at Acharya Institute of Technology, Bangalore, where my journey in tech took flight. From learning the ropes of frontend development with React-JS to diving deep into the endless ocean of open source — I've touched every stone to ensure it's not unturned.
 
-## My Mantra:
+##✨ My Mantra:
 "Innovate, collaborate, and electrify — that's how I roll."
 
-## Professional Journey:
+##🚀 Professional Journey:
 - Transitioning from academia to the tech industry, I've carved a niche in web development, data structures, and algorithms.
 - Led a team at the Virtually Testing Foundation in California, boosting engagement through innovative front-end solutions.
 - Forging my path in open-source, contributing to events like Hacktoberfest'22 and GSWoC'21.
 
-## Key Achievements:
-- Hack The Terminal Hackathon Champion, manifesting creativity and technical acumen.
-- A 3-star rating on HackerRank and over 250+ problems solved on LeetCode.
+##🏆 Key Achievements:
+- Hckathrone, won 2nd prize for contributing new filter conducted by Spark AR || Reskill .
+- Attended AWS workshop and participated in variout tech events.
 
+##🌐 Open Source & Community:
+- Engaged with Girlscript Winter of Foundation to improve their web interface. .
+- Led web development for ANTERIX Club's events, ensuring creativity and promptness..
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vishal-ydv17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal-ydv17/" height="30" width="40" /></a>
