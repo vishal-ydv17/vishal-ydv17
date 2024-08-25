@@ -34,7 +34,7 @@ I'm a final year Information Technology Engineering student at Acharya Institute
 - **Engaged with Girlscript Winter of Foundation to improve their web interface.**
 - **Led web development for ANTERIX Club's events, ensuring creativity and promptness.**-->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤝Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/vishal-ydv17/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal-ydv17/" height="30" width="40" />
