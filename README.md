@@ -1,6 +1,6 @@
 <div align="left">
   
-<h1>Hiii there.. <img src="URL_of_your_new_wave_gif" width="30px">
+<h1>Hiii there.. <img src="https://drive.google.com/file/d/1jQpqv8JT1XZX54wgDkSZRBJT9esgTmFH/view?usp=sharing" width="30px">
 , I'm Vishal Yadav</h1>
 <h3>A passionate programmer from India.</h3>
 
