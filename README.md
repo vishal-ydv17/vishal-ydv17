@@ -99,6 +99,3 @@ I'm a final year Information Technology Engineering student at Acharya Institute
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishal-ydv17&show_icons=true&locale=en" alt="vishal-ydv17" />
 </p>
-```
-
-This version has the "About Me," "My Mantra," "Professional Journey," "Key Achievements," and "Open Source & Community" sections in bold with slightly larger text. Let me know if you need any further adjustments!
