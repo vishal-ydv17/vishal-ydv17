@@ -1,6 +1,6 @@
 <div align="left">
   
-<h1>Hiii there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vishal Yadav</h1>
+<h1>Hiii there <img src="[https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif](https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif)" width="30px">, I'm Vishal Yadav</h1>
 <h3>A passionate programmer from India.</h3>
 
 <p> <img src="https://komarev.com/ghpvc/?username=vishal-ydv17&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-ydv17" /> </p>
