@@ -12,7 +12,7 @@
 </p>
 
 - 🔭 I’m currently working on **something cool.**
-- 🌱 I’m currently learning **Full Stack Web Development.**
+- 🌱 I’m currently learning **Full Stack Web Development and Machine Learning.**
 - 👨‍💻 All of my projects are available at [vishal.vercel.app](vishal.vercel.app)
 - 💬 Ask me about **anything related to technology.**
 - 📫 How to reach me **vishalyadavy0022@gmaiil.com**
