@@ -1,6 +1,3 @@
-Here's your updated README.md file with the requested changes:
-
-```md
 <h1 align="center">Hiii there 👋, I'm Vishal Yadav</h1>
 <h3 align="center">A passionate programmer from India.</h3>
 
