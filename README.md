@@ -1,7 +1,12 @@
+Here's your updated README.md file with the requested changes:
+
+```md
 <h1 align="center">Hiii there 👋, I'm Vishal Yadav</h1>
 <h3 align="center">A passionate programmer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-ydv17&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-ydv17" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=vishal-ydv17&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-ydv17" /> 
+</p>
 
 - 🔭 I’m currently working on **something cool.**
 - 🌱 I’m currently learning **Full Stack Web Development.**
@@ -10,29 +15,36 @@
 - 📫 How to reach me **vishalyadavy0022@gmaiil.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1pLC49NzAv5-DIc41_yyFuppomvosXIRP/view?usp=sharing](https://drive.google.com/file/d/1pLC49NzAv5-DIc41_yyFuppomvosXIRP/view?usp=sharing)
 
-##🎓 About Me:
+## 🎓 **ABOUT ME:**
 I'm a final year Information Technology Engineering student at Acharya Institute of Technology, Bangalore, where my journey in tech took flight. From learning the ropes of frontend development with React-JS to diving deep into the endless ocean of open source — I've touched every stone to ensure it's not unturned.
 
-##✨ My Mantra:
-"Innovate, collaborate, and electrify — that's how I roll."
+## ✨ **MY MANTRA:**
+**"INNOVATE, COLLABORATE, AND ELECTRIFY — THAT'S HOW I ROLL."**
 
-##🚀 Professional Journey:
-- Transitioning from academia to the tech industry, I've carved a niche in web development, data structures, and algorithms.
-- Led a team at the Virtually Testing Foundation in California, boosting engagement through innovative front-end solutions.
-- Forging my path in open-source, contributing to events like Hacktoberfest'22 and GSWoC'21.
+## 🚀 **PROFESSIONAL JOURNEY:**
+- **Transitioning from academia to the tech industry, I've carved a niche in web development, data structures, and algorithms.**
+- **Led a team at the Virtually Testing Foundation in California, boosting engagement through innovative front-end solutions.**
+- **Forging my path in open-source, contributing to events like Hacktoberfest'22 and GSWoC'21.**
 
-##🏆 Key Achievements:
-- Hckathrone, won 2nd prize for contributing new filter conducted by Spark AR || Reskill .
-- Attended AWS workshop and participated in variout tech events.
+## 🏆 **KEY ACHIEVEMENTS:**
+- **Hckathrone, won 2nd prize for contributing new filter conducted by Spark AR || Reskill.**
+- **Attended AWS workshop and participated in various tech events.**
 
-##🌐 Open Source & Community:
-- Engaged with Girlscript Winter of Foundation to improve their web interface. .
-- Led web development for ANTERIX Club's events, ensuring creativity and promptness..
+## 🌐 **OPEN SOURCE & COMMUNITY:**
+- **Engaged with Girlscript Winter of Foundation to improve their web interface.**
+- **Led web development for ANTERIX Club's events, ensuring creativity and promptness.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vishal-ydv17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal-ydv17/" height="30" width="40" /></a>
-<a href="https://instagram.com/vishal._.ydv17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishal._.ydv17" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vishal-ydv17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishal-ydv17" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/vishal-ydv17/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal-ydv17/" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/vishal._.ydv17" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishal._.ydv17" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/vishal-ydv17" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishal-ydv17" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -78,6 +90,13 @@ I'm a final year Information Technology Engineering student at Acharya Institute
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal-ydv17&show_icons=true&locale=en&layout=compact" alt="vishal-ydv17" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal-ydv17&show_icons=true&locale=en&layout=compact" alt="vishal-ydv17" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishal-ydv17&show_icons=true&locale=en" alt="vishal-ydv17" /></p>
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishal-ydv17&show_icons=true&locale=en" alt="vishal-ydv17" />
+</p>
+```
+
+This version has the "About Me," "My Mantra," "Professional Journey," "Key Achievements," and "Open Source & Community" sections in bold with slightly larger text. Let me know if you need any further adjustments!
