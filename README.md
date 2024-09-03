@@ -29,7 +29,7 @@ Hi, I'm [Vishal!](https://linkedin.com/in/vishal-ydv17/), a passionate self-taug
 
 **📢 Find me elsewhere:**
 <p align="left">
-  <a href="https://www.leetcode.com/vishal-ydv17" target="_blank">
+  <a href="https://www.leetcode.com/vishalydv_7007" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="codechef" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
 </p>
